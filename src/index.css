@@ -20,7 +20,6 @@ body{
 .app.warm {
   background-image: url('./assets/warm.jpg');
   transition: 0.4 ease-out;
-
 }
 
 main{
